@@ -3,7 +3,7 @@ class Chntpw < Formula
   homepage "https://github.com/Tody-Guo/chntpw"
   url "https://github.com/sidneys/chntpw/archive/0.99.6.tar.gz"
   sha256 "e915f5addc2673317285c6f022c94da7fdee415d9800cd38540a13706706786b"
-  head "https://github.com/sidneys/chntpw.git"
+  head "https://github.com/k0inwork/chntpw.git"
 
   def install
     system "make"
